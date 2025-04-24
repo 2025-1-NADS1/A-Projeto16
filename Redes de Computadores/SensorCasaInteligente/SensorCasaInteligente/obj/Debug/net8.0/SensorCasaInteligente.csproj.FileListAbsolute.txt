@@ -1,0 +1,14 @@
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\bin\Debug\net8.0\SensorCasaInteligente.exe
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\bin\Debug\net8.0\SensorCasaInteligente.deps.json
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\bin\Debug\net8.0\SensorCasaInteligente.runtimeconfig.json
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\bin\Debug\net8.0\SensorCasaInteligente.dll
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\bin\Debug\net8.0\SensorCasaInteligente.pdb
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.AssemblyInfoInputs.cache
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.AssemblyInfo.cs
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.csproj.CoreCompileInputs.cache
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.dll
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\refint\SensorCasaInteligente.dll
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.pdb
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\SensorCasaInteligente.genruntimeconfig.cache
+C:\Users\25027377\Desktop\REDES\SensorCasaInteligente\SensorCasaInteligente\obj\Debug\net8.0\ref\SensorCasaInteligente.dll
