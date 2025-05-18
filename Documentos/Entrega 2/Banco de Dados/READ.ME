@@ -1,0 +1,35 @@
+# Projeto Casa Inteligentee
+
+Este projeto consiste em um sistema de banco de dados para gerenciar uma casa inteligente, monitorando ambientes, sensores, moradores, consumo energético e comandos de controle.
+
+---
+
+## Estrutura do Banco de Dados
+
+### Banco
+- **casa_inteligentee**
+
+### Tabelas principais
+
+- **ambientes:** Armazena os cômodos da casa, descrição, potência total em watts e equipamentos presentes.
+- **sensores:** Sensores instalados em cada ambiente (ex: temperatura, umidade, movimento).
+- **leituras_sensores:** Registros das leituras capturadas pelos sensores, incluindo temperatura, umidade e detecção de movimento.
+- **moradores:** Informações dos moradores da casa, como nome, email, telefone e senha.
+- **consumo_energetico:** Consumo energético registrado por ambiente em determinados períodos.
+- **comandos_controle:** Comandos que podem ser enviados para os ambientes (ex: ligar/desligar equipamentos).
+- **historico_comandos:** Histórico dos comandos enviados, com registro do morador que executou e timestamp.
+- **eventos_movimento:** Eventos de movimento detectados vinculados às leituras dos sensores e moradores.
+
+---
+
+## Como criar o banco e tabelas
+
+Execute os comandos SQL para criar o banco de dados e as tabelas, além de inserir dados iniciais:
+
+```sql
+CREATE DATABASE IF NOT EXISTS casa_inteligentee;
+USE casa_inteligentee;
+
+-- Criação das tabelas (ambientes, sensores, leituras_sensores, moradores, consumo_energetico, comandos_controle, historico_comandos, eventos_movimento)
+
+-- Inserção dos dados iniciais para ambientes, sensores e moradores
